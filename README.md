@@ -21,7 +21,7 @@
 * [关于我](https://www.taosugar.com/about)
 * [生命在于折腾之群晖搭建Solo博客](https://www.taosugar.com/synology)
 * [我在 GitHub 上的开源项目](https://www.taosugar.com/my-github-repos)
-* [无损音乐下载软件推荐](https://www.taosugar.com/articles/2020/04/12/1586681190996.html)
+* [无损音乐下载软件推荐](https://www.taosugar.com/MusicTools)
 * [腾讯视频热播大剧《鬼吹灯之龙岭迷窟》豆瓣评分8.8！！](https://www.taosugar.com/articles/2020/04/07/1586188875849.html)
 * [Solo博客搭建之路](https://www.taosugar.com/articles/2020/04/05/1586087934810.html)
 * [世界，你好！](https://www.taosugar.com/hello-solo)
