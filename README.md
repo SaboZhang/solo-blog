@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [震惊！Java也受美国出口管制？](https://www.taosugar.com/javalicense)
 * [《入海》有你的毕业记忆吗？](https://www.taosugar.com/rhmv)
 * [别人眼中的程序员 VS 实际中的程序员](https://www.taosugar.com/dev)
 * [迷之问题，自动将域名解析成IP](https://www.taosugar.com/question)
