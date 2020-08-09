@@ -1,4 +1,4 @@
-<p align="center"><img alt="森屿的博客" src="https://media.taosugar.com/sugaricon.png"></p><h2 align="center">
+<p align="center"><img alt="森屿的博客" src="https://b3logfile.com/file/2020/08/%E6%A3%92%E6%A3%92%E7%B3%96-7f878335.png"></p><h2 align="center">
 森屿的博客
 </h2>
 
@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [壁纸分享，持续更新](https://www.taosugar.com/wallpapers)
+* [java14 新特性，代码简化神器](https://www.taosugar.com/javarecord)
 * [震惊！Java也受美国出口管制？](https://www.taosugar.com/javalicense)
 * [《入海》有你的毕业记忆吗？](https://www.taosugar.com/rhmv)
 * [别人眼中的程序员 VS 实际中的程序员](https://www.taosugar.com/dev)
