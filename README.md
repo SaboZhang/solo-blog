@@ -1,9 +1,9 @@
-<p align="center"><img alt="学习乐园" src="https://b3logfile.com/file/2020/08/%E6%A3%92%E6%A3%92%E7%B3%96-7f878335.png"></p><h2 align="center">
-学习乐园
+<p align="center"><img alt="时代幸运星" src="https://b3logfile.com/file/2020/08/%E6%A3%92%E6%A3%92%E7%B3%96-7f878335.png"></p><h2 align="center">
+时代幸运星
 </h2>
 
 <h4 align="center">书富如入海，百货皆有！</h4>
-<p align="center"><a title="学习乐园" target="_blank" href="https://github.com/SaboZhang/solo-blog"><img src="https://img.shields.io/github/last-commit/SaboZhang/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="时代幸运星" target="_blank" href="https://github.com/SaboZhang/solo-blog"><img src="https://img.shields.io/github/last-commit/SaboZhang/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/SaboZhang/solo-blog"><img src="https://img.shields.io/github/repo-size/SaboZhang/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/SaboZhang/solo-blog.svg"></a></p>
